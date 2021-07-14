@@ -12,6 +12,10 @@ header a {
  list-style: none;
 }
 
+.nav-lists a:hover {
+ color: #00bfff;
+}
+
 .nav-lists a {
  text-decoration: none;
  color: black;
@@ -22,3 +26,14 @@ header li{
  padding: 40px 100px 0px 0px ;
 }
 
+
+footer {
+ width: 100%;
+ height: 50px;
+ color: white;
+ background-color: black;
+ text-align: center;
+ position: absolute;
+ bottom: 0;
+ padding-top: 15px;
+}
