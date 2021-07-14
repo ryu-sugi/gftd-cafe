@@ -1,2 +1,24 @@
 /* ↓google font 使い方
  *//* font-family: 'Philosopher', sans-serif; */
+
+header a {
+ padding: 20px;
+}
+
+
+.nav-lists {
+ float: right;
+ display: flex;
+ list-style: none;
+}
+
+.nav-lists a {
+ text-decoration: none;
+ color: black;
+
+}
+
+header li{
+ padding: 40px 100px 0px 0px ;
+}
+
