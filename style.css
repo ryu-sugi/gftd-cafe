@@ -71,3 +71,11 @@ footer {
 .menu-botton-div {
  text-align: center;
 }
+
+/* ↓メニュー装飾 */
+
+.news-footer {
+ position: absolute;
+ bottom: 0; 
+}
+
