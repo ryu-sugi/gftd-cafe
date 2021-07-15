@@ -45,7 +45,29 @@ footer {
  height: 100vh;
 }
 
-.button {
+.index-text {
+ font-family: 'Philosopher', sans-serif;
+ font-size: 50px;
+ text-align: center;
+ padding-top: 100px;
+}
+
+.index-subtext {
+ text-align: center;
+ padding: 20px;
+}
+
+.menu-botton {
+ width: 150px;
+ height: 30px;
  background-color: #00bfff;
  color: white;
+ padding-top: 4px;
+ display: inline-block;
+ text-decoration:none; 
+ margin: 0 auto;
+}
+
+.menu-botton-div {
+ text-align: center;
 }
