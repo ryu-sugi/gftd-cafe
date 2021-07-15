@@ -76,6 +76,21 @@ footer {
 
 .news-footer {
  position: absolute;
- bottom: 0; 
+}
+
+.news-title {
+ font-family: 'Philosopher', sans-serif;
+ text-align: center;
+ font-size: 60px;
+}
+
+.news-img {
+ text-align: center;
+}
+
+.news-heading-text {
+ text-align: center;
+ font-weight: normal;
+ padding-top: 100px;
 }
 
