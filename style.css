@@ -88,6 +88,7 @@ footer {
 .news-img {
  text-align: center;
  padding-top: 20px;
+ margin-left: 400px;
 }
 
 .news-text {
@@ -113,6 +114,7 @@ footer {
 
 .news {
  text-align: center;
+ margin-left: 400px;
 }
 
 .news-text1 {
@@ -120,8 +122,6 @@ footer {
  display: inline-block;
 }
 
-.news-text2 {
-}
 
 .time {
  width: 95px;
@@ -144,4 +144,51 @@ footer {
 
 .news-heading {
  margin-left: 30px;
+}
+
+article {
+ display: flex;
+}
+
+.news-side {
+ margin-left: 100px;
+}
+
+.news-category {
+ line-height: 40px;
+ text-decoration: underline;
+ text-decoration-color: #5d5f5f;
+ margin-top: 30px;
+}
+
+.news-category h1 {
+ font-weight: normal;
+ font-size: 21px;
+ text-decoration: underline;
+ text-decoration-color: #00bfff;
+}
+
+.news-description h1 {
+ padding-top: 30px;
+ padding-bottom: 20px;
+ font-weight: normal;
+ font-size: 21px;
+ text-decoration: underline;
+ text-decoration-color: #00bfff;
+}
+
+.news-header {
+ background-image: url("newspic.jpg");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.news-title {
+ font-size: 40px;
+ padding-bottom: 80px;
+}
+
+.news-title h1 {
+ font-weight: normal;
 }
