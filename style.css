@@ -192,3 +192,25 @@ article {
 .news-title h1 {
  font-weight: normal;
 }
+
+/* ↓メニュー画面css */
+
+.top-img-menu {
+ background-image: url("https://s3.amazonaws.com/thinkific/file_uploads/55350/attachments/153/522/743/menu-bg.jpg");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 80vh;
+ opacity: 70%;
+}
+
+.menu-title {
+ font-size: 50px;
+ text-align: center;
+ font-family: 'Philosopher', sans-serif;
+ margin-bottom: 30px;
+}
+
+.menu-description {
+ text-align: center;
+}
